@@ -7,9 +7,9 @@ This is a simple email client built with Next.js and Postgres.
 - Navigate between routes extremely fast (prefetching and caching)
 - Retain your UI position on reload (URL state)
 
-The first version of the UI was built with [v0](https://v0.dev/t/RPsRRQilTDp).
+The first version of the UI was built with [v0](https://v0.dev/).
 
-<img width="1343" alt="CleanShot 2023-11-04 at 21 09 49@2x" src="https://github.com/leerob/leerob.io/assets/9113740/1e33ad53-832f-410e-a4d6-7bd40f666aa8">
+<img width="1343" alt="280543133-1e33ad53-832f-414563sd" src="https://github.com/dr-dark-flames/nextjs-email-client/assets/12224035/a62313d4-35fb-40b7-a73b-ad8844fa8a2b">
 
 ## Tech
 
