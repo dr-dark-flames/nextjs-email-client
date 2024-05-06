@@ -1,6 +1,6 @@
 # Next.js Email Client
 
-This is a simple email client built with Next.js and Postgres. It's built to show off some of the features of the App Router, which enable you to build products that:
+This is a simple email client built with Next.js and Postgres.
 
 - Navigate between routes in a column layout while maintaining scroll position (layouts support)
 - Submit forms without JavaScript enabled (progressive enhancement)
@@ -34,7 +34,7 @@ In order to run this project locally, you'll need to create a Postgres database 
 
 Further, you'll need to create the tables and insert some sample data.
 
-Follow these steps to get started:
+### Steps to get started:
 
 1. Create a Postgres database
 2. Navigate to the `.env.local` tab in the quickstart section Postgres dashboard
